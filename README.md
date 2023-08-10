@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi 👋, Welcome to my profile
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">, Welcome to my profile
 </h2>
 
 <p align="center">
@@ -22,9 +22,17 @@ Really interested in `Software Development` and `Data Science`.
         <li>🎓 Second year at Computer Science </li>
         <li>🎯 Developing the skill set of the future.</li>
         <li>⚡ Passionate about everything I do </li>
+        <li>🔎 Currently venturing into Reinforced Learning </li>
     </ul>
     
   <h3> 🛠 &nbsp;Tech Stack</h3>
+<table align="right">
+    <tr><td><span height = "15">🔣</span> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="15"> Spanish (native)</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="15"> Portuguese ★★☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15"> French ★☆☆</a></td></tr>
+</table>
 
 - :space_invader:
   ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
@@ -48,6 +56,7 @@ Really interested in `Software Development` and `Data Science`.
   ![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=reactjs)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   --->
+    
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -56,7 +65,7 @@ Really interested in `Software Development` and `Data Science`.
   </p>
   
   </br>
-  
+
   ---
   
   <h2 align="center">
