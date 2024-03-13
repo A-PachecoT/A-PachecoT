@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    <b>I'm André Pacheco, a second-year computer science student at National University of Engineering, Perú</b>
+    <b>I'm André Pacheco, a third-year computer science student at National University of Engineering, Perú</b>
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ---
 
-Really interested in `Software Development` and `Data Science`.
+Engaged into `Data Science` and `AI`.
     <ul>
-        <li>🎓 Second year at Computer Science </li>
         <li>🎯 Developing the skill set of the future.</li>
         <li>⚡ Passionate about everything I do </li>
-        <li>🔎 Currently venturing into Reinforced Learning </li>
+        <li> 🧠 A lifelong learner </li>
+        <li>🔎 Currently venturing into Machine Learning Engineering and Web Development </li>
     </ul>
     
   <h3> 🛠 &nbsp;Tech Stack</h3>
