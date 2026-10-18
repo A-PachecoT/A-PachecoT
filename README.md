@@ -1,74 +1,24 @@
-<h2 align="center">
-    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">, Welcome to my profile
-</h2>
+### Hey, I'm André 👋
+
+I build software with AI agents in Lima, Peru 🇵🇪. I run [Cofoundy](https://cofoundy.dev), a small software studio, with [@Melissa1221](https://github.com/Melissa1221), [@lepaccio](https://github.com/lepaccio) and [@JuanSilva2000](https://github.com/JuanSilva2000). Agents write and review our code; we decide what's worth building and check that it works in production. That explains my contribution graph.
 
 <p align="center">
-    <b>I'm André Pacheco, a third-year computer science student at National University of Engineering, Perú</b>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg">
+  <img src="assets/week-light.svg" alt="1,466 contributions in the last 7 days. Written by me: fewer than you'd think. Diffs I read: zero, the evals do." width="560">
+</picture>
 </p>
 
-<p align="center">
-    <a href = "https://www.linkedin.com/in/andré-joaquín-pacheco-taboada-693ab0259" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="mailto:apachecotaboada@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/GMail-red?logo=gmail&style=for-the-badge&logoColor=white" alt="GMail Badge" />
-    </a>
-</p>
+**Lately**
 
----
+- [**basalt-plugin**](https://github.com/cofoundy/basalt-plugin) — publish docs straight from Claude Code, Codex or Cursor · today
+- [**dagyard**](https://github.com/cofoundy/dagyard) — a live DAG of your coding agents' plan; the tasks that need you turn amber · 4d&nbsp;ago
+- [**brand-skills**](https://github.com/cofoundy/brand-skills) — turn an idea into a brand (name, identity, voice) without leaving your agent · 11d&nbsp;ago
+- [**mailglow**](https://github.com/cofoundy/mailglow) — vibe-code HTML emails that survive Gmail, Outlook and Apple Mail · 21d&nbsp;ago
+- [**aurora**](https://github.com/A-PachecoT/aurora) — a CBT thought record that never leaves your device · 51d&nbsp;ago
 
-Engaged into `Data Science` and `AI`.
-    <ul>
-        <li>🎯 Developing the skill set of the future.</li>
-        <li>⚡ Passionate about everything I do </li>
-        <li> 🧠 A lifelong learner </li>
-        <li>🔎 Currently venturing into Machine Learning Engineering and Web Development </li>
-    </ul>
-    
-  <h3> 🛠 &nbsp;Tech Stack</h3>
-<table align="right">
-    <tr><td><span height = "15">🔣</span> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="15"> Spanish (native)</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="15"> Portuguese ★★☆</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15"> French ★☆☆</a></td></tr>
-</table>
+Yes, that's me at #1 on [committers.top for Peru](https://committers.top/peru_private). Mostly the agents' fault. If you follow anyone here, follow my teammates too: the agents answer to them.
 
-- :space_invader:
-  ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- 👓 &nbsp;
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  <!---
-  Still learning the following framework 🤪
-  ![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=reactjs)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  --->
-    
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  </p>
-  
-  </br>
+[andre@cofoundy.dev](mailto:andre@cofoundy.dev) · [LinkedIn](https://www.linkedin.com/in/andrepachecot/) · [cofoundy.dev](https://cofoundy.dev)
 
-  ---
-  
-  <h2 align="center">
-   Hope you have a productive day ! 👋
-  </h2>
-  </br>
+<!-- generado por build.py · 2026-10-17 -->
