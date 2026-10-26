@@ -5,7 +5,7 @@ I build software with AI agents in Lima, Peru 🇵🇪. I run [Cofoundy](https:/
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg">
-  <img src="assets/week-light.svg" alt="910 contributions in the last 7 days. Written by me: fewer than you'd think. Diffs I read: zero, the evals do." width="560">
+  <img src="assets/week-light.svg" alt="913 contributions in the last 7 days. Written by me: fewer than you'd think. Diffs I read: zero, the evals do." width="560">
 </picture>
 </p>
 
