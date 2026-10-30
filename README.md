@@ -5,20 +5,20 @@ I build software with AI agents in Lima, Peru 🇵🇪. I run [Cofoundy](https:/
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/week-dark.svg">
-  <img src="assets/week-light.svg" alt="1,101 contributions in the last 7 days. Written by me: fewer than you'd think. Diffs I read: zero, the evals do." width="560">
+  <img src="assets/week-light.svg" alt="910 contributions in the last 7 days. Written by me: fewer than you'd think. Diffs I read: zero, the evals do." width="560">
 </picture>
 </p>
 
 **Lately**
 
-- [**brand-skills**](https://github.com/cofoundy/brand-skills) — turn an idea into a brand (name, identity, voice) without leaving your agent · 7d&nbsp;ago
-- [**basalt-plugin**](https://github.com/cofoundy/basalt-plugin) — publish docs straight from Claude Code, Codex or Cursor · 12d&nbsp;ago
-- [**dagyard**](https://github.com/cofoundy/dagyard) — a live DAG of your coding agents' plan; the tasks that need you turn amber · 16d&nbsp;ago
-- [**mailglow**](https://github.com/cofoundy/mailglow) — vibe-code HTML emails that survive Gmail, Outlook and Apple Mail · 33d&nbsp;ago
-- [**aurora**](https://github.com/A-PachecoT/aurora) — a CBT thought record that never leaves your device · 63d&nbsp;ago
+- [**brand-skills**](https://github.com/cofoundy/brand-skills) — turn an idea into a brand (name, identity, voice) without leaving your agent · 8d&nbsp;ago
+- [**basalt-plugin**](https://github.com/cofoundy/basalt-plugin) — publish docs straight from Claude Code, Codex or Cursor · 13d&nbsp;ago
+- [**dagyard**](https://github.com/cofoundy/dagyard) — a live DAG of your coding agents' plan; the tasks that need you turn amber · 17d&nbsp;ago
+- [**mailglow**](https://github.com/cofoundy/mailglow) — vibe-code HTML emails that survive Gmail, Outlook and Apple Mail · 34d&nbsp;ago
+- [**aurora**](https://github.com/A-PachecoT/aurora) — a CBT thought record that never leaves your device · 64d&nbsp;ago
 
 Yes, that's me at #1 on [committers.top for Peru](https://committers.top/peru_private). Mostly the agents' fault. If you follow anyone here, follow my teammates too: the agents answer to them.
 
 [andre@cofoundy.dev](mailto:andre@cofoundy.dev) · [LinkedIn](https://www.linkedin.com/in/andrepachecot/) · [cofoundy.dev](https://cofoundy.dev)
 
-<!-- generado por build.py · 2026-10-29 -->
+<!-- generado por build.py · 2026-10-30 -->
